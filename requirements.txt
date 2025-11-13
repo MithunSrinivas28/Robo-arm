@@ -1,0 +1,9 @@
+google-generativeai
+SpeechRecognition
+python-dotenv
+adafruit-blinka
+adafruit-circuitpython-pca9685
+adafruit-circuitpython-motor
+opencv-python
+picamera
+pyaudio
